@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="pages_count_label">Кол-во страниц:</string>
+    <string name="title_activity_results">ResultsActivity</string>
+</resources>
